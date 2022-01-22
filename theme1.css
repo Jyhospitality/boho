@@ -8,6 +8,12 @@
   font-weight: normal;
   font-style: normal;
 }
+.margrig20{
+  margin-right: 20px;
+}
+.pColor{
+  color: #000;
+}
 @font-face {
   font-family: "FontAwesome";
   src: url(fonts/fontawesome/fonts/fontawesome-webfont.eot);
